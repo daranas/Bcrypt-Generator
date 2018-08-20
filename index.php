@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Bcrypt Generator - Online Bcrypt Hash Generator &amp; Checker</title>
+    <title>Bcrypt Generator - Online Bcrypt Hash Generator</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Bcrypt Generator is a online tool to check Bcrypt hashes.">
     <style>
